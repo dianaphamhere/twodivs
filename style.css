@@ -86,3 +86,33 @@
 	bottom: 130px;
 	z-index: 0;
 }
+
+#oneEye {
+	width: 40px;
+	height: 100px;
+	left: 130px;
+	top: 96px;
+	border-radius: 60%;
+	background-color: black;
+}
+
+#twoEye {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+/*#oneBlink {
+	width: 40px;
+	height: 100px;
+	left: 130px;
+	top: 96px;
+	border-radius: 60%;
+	background-color: black;
+}
+
+#twoBlink {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}*/

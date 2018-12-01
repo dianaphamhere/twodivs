@@ -122,3 +122,25 @@
 	z-index: 1;
 	background-color: white;
 }
+
+#aGT {
+	width: 0;
+	height: 0;
+	left: 141px;
+	bottom: 60px;
+	border-left: 10px solid white;
+	border-right: 10px solid white;
+	border-top: 70px solid black;
+	border-bottom: 0px;
+	z-index: 0;
+}
+
+#bGT {
+	border-radius: 50%;
+	width: 90px;
+	height: 90px;
+	left: 103px;
+	bottom: 130px;
+	background-color: white;
+	z-index: 1;
+}
